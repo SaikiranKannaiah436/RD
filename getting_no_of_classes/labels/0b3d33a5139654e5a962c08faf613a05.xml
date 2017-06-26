@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>training_set_batch4</folder>
+  <filename>0b3d33a5139654e5a962c08faf613a05</filename>
+  <path>/home/saikiran/HBRS/RD/training_set_batch4/0b3d33a5139654e5a962c08faf613a05.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>455</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>red</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>265</xmin>
+      <ymin>50</ymin>
+      <xmax>272</xmax>
+      <ymax>68</ymax>
+    </bndbox>
+  </object>
+</annotation>

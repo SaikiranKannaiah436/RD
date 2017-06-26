@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>training_data</folder>
+  <filename>fc49a65277a2e1f4f61cde40870d0fa7</filename>
+  <path>/home/saikiran/HBRS/RD/training_data/fc49a65277a2e1f4f61cde40870d0fa7.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>455</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>green</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>128</xmin>
+      <ymin>34</ymin>
+      <xmax>147</xmax>
+      <ymax>51</ymax>
+    </bndbox>
+  </object>
+</annotation>
